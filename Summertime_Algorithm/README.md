@@ -75,10 +75,10 @@ python Untitled.py
 # 📂 Project Structure
 ```txt
 .
-├── data/                   # Datasets
 ├── out/                    # Preprocessed data and results
 ├── main.py                 # Main script for running the pipeline
-├── utils.py                # Utility functions
+├── preprocessed_test.csv              
+├── processed_test_results                 
 ├── requirements.txt        # List of required libraries
 └── README.md               # Project documentation
 
