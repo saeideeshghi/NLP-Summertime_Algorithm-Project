@@ -68,7 +68,7 @@ The dataset should include the following columns:
 To run the complete summarization pipeline, execute:
 
 ```txt
-python Untitled.py
+python Main.py
 
 ```
 
