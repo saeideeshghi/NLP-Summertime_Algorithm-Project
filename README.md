@@ -1,6 +1,6 @@
 # Hybrid NLP Summarization Project 🚀
 
-A hybrid text summarization system combining **extractive** (LexRank) and **abstractive** (BART) approaches with transformer-based fusion. This project is inspired by the paper **"Two-Stage Hybrid Model for Abstractive Text Summarization"** and features several improvements in architecture and result integration.
+A hybrid text summarization system combining **extractive** (LexRank) and **abstractive** (BART) approaches with transformer-based fusion. This project is inspired by the paper **"Neural_Attention_Model_for_Abstractive_Text_Summarization_Using"** and features several improvements in architecture and result integration.
 
 ## ✨ Key Features
 - **Hybrid Approach:** Merges extractive and abstractive summarization for enhanced summary quality.
