@@ -85,7 +85,7 @@ python Main.py
 ```
 
 # 🔗 References
-- Base Paper: "Neural_Attention_Model_for_Abstractive_Text_Summarization_Using"
+- Base Paper: "Neural Attention Model for Abstractive Text Summarization Using LinguisticFeature Space"
 - BART Model: BART model by Hugging Face
 - Dataset: CNN/DailyMail
 
